@@ -116,6 +116,7 @@ class Maulik extends Developer
 
 | Project | What it is | Built with |
 |:--|:--|:--|
+| 🎲 [**Ludo Clash**](https://maulikpaghdal.netlify.app/projects/ludo-clash) | Offline-ready Ludo PWA for 2–4 players or vs computer, with an Arcade mode of 13 wildcards, mines and mystery boxes. [Play now](https://ludoclash.netlify.app) | `Vue 3` `TypeScript` `Pinia` `Tailwind` `PWA` |
 | 🍳 [**Food Studio**](https://maulikpaghdal.netlify.app/projects/food-studio) | Social platform for food bloggers: share recipes, follow chefs, find dishes from ingredients you have | `Laravel` `Vue` `MySQL` `Tailwind` |
 | 💸 [**Extrack**](https://maulikpaghdal.netlify.app/projects/extrack-expense-tracker) | Installable, mobile-first PWA for tracking income and expenses | `Vue` `Vuex` `Supabase` `Tailwind` |
 | ✍️ [**Script Binary**](https://maulikpaghdal.netlify.app/projects/script-binary) | Web dev blog with tutorials and snippets, static-first for speed and SEO | `Astro` `Tailwind` `Netlify` |
@@ -123,7 +124,7 @@ class Maulik extends Developer
 | 📖 [**Book Studio**](https://maulikpaghdal.netlify.app/projects/book-studio) | E-commerce bookstore with a category-organized catalogue | `Laravel` `Vue` `Pinia` `MySQL` |
 | 🌦️ [**Weather App**](https://maulikpaghdal.netlify.app/projects/weather-app) | Responsive weather app with location search and detailed forecasts | `Vue 3` `Pinia` `Tailwind` |
 
-<p align="center"><a href="https://maulikpaghdal.netlify.app/projects">👉 See all 14 projects with case studies</a></p>
+<p align="center"><a href="https://maulikpaghdal.netlify.app/projects">👉 See all projects with case studies</a></p>
 
 ---
 
